@@ -11,7 +11,9 @@ Install spaCy, a natural language processing library, and its language models fo
 
 
 pip install spacy
+
 python -m spacy download en
+
 python -m spacy download de
 
 **Dependencies:**
